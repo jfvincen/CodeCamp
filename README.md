@@ -1,7 +1,6 @@
 # CodeCamp
+# Done Projects
 Responsive Web Design Projects
-
-# Done
 Tribute Page
 
 # Soon
